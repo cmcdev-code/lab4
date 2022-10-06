@@ -1,5 +1,5 @@
-#ifndef employee
-#define employee
+#ifndef house
+#define house
 
 //file that has the class 
 #include <vector>
